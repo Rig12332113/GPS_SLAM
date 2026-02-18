@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Viewer.dir/src/viewer.cpp.o -o Viewer  -Wl,-rpath,/usr/local/lib libui_lib.a libreceiver_lib.a /usr/local/lib/libglfw.3.4.dylib -framework OpenGL

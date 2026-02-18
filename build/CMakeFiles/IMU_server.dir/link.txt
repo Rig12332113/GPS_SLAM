@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/IMU_server.dir/src/IMUserver.cpp.o -o IMU_server  libreceiver_lib.a

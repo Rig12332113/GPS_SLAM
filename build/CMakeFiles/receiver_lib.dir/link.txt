@@ -1,2 +1,0 @@
-/usr/bin/ar qc libreceiver_lib.a CMakeFiles/receiver_lib.dir/src/IMUreceiver.cpp.o CMakeFiles/receiver_lib.dir/src/IMUsample.cpp.o CMakeFiles/receiver_lib.dir/src/waveletDenoiser.cpp.o CMakeFiles/receiver_lib.dir/src/GPSreceiver.cpp.o CMakeFiles/receiver_lib.dir/src/GPSsample.cpp.o
-/usr/bin/ranlib libreceiver_lib.a
