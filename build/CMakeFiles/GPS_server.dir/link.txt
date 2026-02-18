@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/GPS_server.dir/src/GPSserver.cpp.o -o GPS_server  libreceiver_lib.a

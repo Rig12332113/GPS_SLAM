@@ -1,0 +1,2 @@
+/usr/bin/ar qc libui_lib.a CMakeFiles/ui_lib.dir/external/imgui/imgui.cpp.o CMakeFiles/ui_lib.dir/external/imgui/imgui_draw.cpp.o CMakeFiles/ui_lib.dir/external/imgui/imgui_tables.cpp.o CMakeFiles/ui_lib.dir/external/imgui/imgui_widgets.cpp.o CMakeFiles/ui_lib.dir/external/imgui/backends/imgui_impl_glfw.cpp.o CMakeFiles/ui_lib.dir/external/imgui/backends/imgui_impl_opengl3.cpp.o CMakeFiles/ui_lib.dir/external/implot/implot.cpp.o CMakeFiles/ui_lib.dir/external/implot/implot_items.cpp.o
+/usr/bin/ranlib libui_lib.a
